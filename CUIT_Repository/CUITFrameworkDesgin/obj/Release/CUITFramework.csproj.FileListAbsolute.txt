@@ -1,0 +1,7 @@
+E:\CUITFramework\bin\Release\CUITFramework.dll
+E:\CUITFramework\bin\Release\CUITFramework.pdb
+E:\CUITFramework\bin\Release\KeywordsDriver.dll
+E:\CUITFramework\bin\Release\KeywordsDriver.pdb
+E:\CUITFramework\obj\Release\ResolveAssemblyReference.cache
+E:\CUITFramework\obj\Release\CUITFramework.dll
+E:\CUITFramework\obj\Release\CUITFramework.pdb
