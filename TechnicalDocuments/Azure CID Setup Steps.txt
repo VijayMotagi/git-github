@@ -1,0 +1,40 @@
+1.Login https://dev.azure.com/
+2.Create free account for sign up
+3.Create Organization
+4.Create Project Example:QATestProject
+5.Associate Repos
+i.e
+https://vijaymotagi@dev.azure.com/vijaymotagi/QATestProject/_git/QATestProject
+
+6.Generate Git Credentails:userName/pasword
+
+7.Create New Folder in your machine for repository
+8.open git command prompt from the repo
+9.Now follow below command
+	1.git init
+	2.git remote add origin https://vijaymotagi@dev.azure.com/vijaymotagi/QATestProject/_git/QATestProject
+	3.git push -u origin --all
+
+10.Click on Pipeline and then New Pipeline
+11.Select Azure Repos and select QATestProject
+12.Choose selected template
+13.Click Save and run and again click on Save and Run on appeared popup
+14.Validate Build is successful
+15.On Successfull build, click on Release which will setup continuos deployment
+16.Select template Empty job
+17. Rename Stage 'DeploymentStage'
+18.Click on Task in 'DeploymentStage'
+19.Click on Agent jon and select defaul in Agent Pool drop-down
+20.Add Task for agent, search for command prompt and add Command Line Script
+21.Click on Save and click on OK
+22. First time manually deploy release to verify for scuccess
+23.Now setup CI-CD
+24.Go to Release --> Edit pipeline
+25.Now in Artifacts click on continuos deployment trigger
+26. Enable Continuos deployment trigger and pull request trigger and select appropriate branch
+27.Click on Save
+
+For working try to change some code and commit and push the code for process to work.
+
+
+

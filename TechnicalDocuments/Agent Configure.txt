@@ -1,0 +1,37 @@
+PS C:\WINDOWS\system32\agent> Add-Type -AssemblyName System.IO.Compression.FileSystem ; [System.IO.Compression.ZipFile]:
+:ExtractToDirectory("$HOME\Downloads\vsts-agent-win-x64-2.140.2.zip", "$PWD")
+PS C:\WINDOWS\system32\agent> .\config.cmd
+
+>> Connect:
+
+Enter server URL > .\run.cmd
+Enter a valid value for server URL.
+Enter server URL > https://dev.azure.com/vijaymotagi
+Enter authentication type (press enter for PAT) >
+Enter personal access token > ****************************************************
+Connecting to server ...
+
+>> Register Agent:
+
+Enter agent pool (press enter for default) >
+Enter agent name (press enter for BAN-ARICENT18) >
+Scanning for tool capabilities.
+Connecting to the server.
+Successfully added the agent
+Testing agent connection.
+Enter work folder (press enter for _work) >
+2018-10-06 13:03:54Z: Settings Saved.
+Enter run agent as service? (Y/N) (press enter for N) > N
+Enter configure autologon and run agent on startup? (Y/N) (press enter for N) > Y
+Enter User account to use for autologon > vmotagi
+Enter Password for the account BAN-ARICENT18\vmotagi > **********
+Invalid windows credentials entered for AutoLogon. Please make sure that the provided credentials are valid and have interactive logon rights on the machine. Try again or ctrl-c to quit
+Enter User account to use for autologon > vmotagi
+Enter Password for the account BAN-ARICENT18\vmotagi > **********
+Invalid windows credentials entered for AutoLogon. Please make sure that the provided credentials are valid and have interactive logon rights on the machine. Try again or ctrl-c to quit
+Enter User account to use for autologon > Enter User account to use for autologon > Exiting...
+Terminate batch job (Y/N)? Y
+PS C:\WINDOWS\system32\agent> .\run.cmd
+Scanning for tool capabilities.
+Connecting to the server.
+2018-10-06 13:07:32Z: Listening for Jobs
