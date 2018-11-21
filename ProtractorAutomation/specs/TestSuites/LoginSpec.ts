@@ -9,7 +9,7 @@ let loginLib = new LoginLib()
 let loginPO =new LoginPO()
 let csrPO=new CSRPO();
 let homedashboardPO=new HomeDashboardPO()
-fdescribe("Page Object Model in Protractor", function(){
+describe("Page Object Model in Protractor", function(){
   browser.ignoreSynchronization = true; // for non-angular websites
   var originalTimeout;
 
@@ -21,14 +21,14 @@ fdescribe("Page Object Model in Protractor", function(){
     afterEach(function() {
       jasmine.DEFAULT_TIMEOUT_INTERVAL = originalTimeout;
     });
-  fit("Login page test case",function(){
+  it("Login page test case",function(){
     let assertionLib=new AssertionLib();
-    browser.get("url")
+    browser.get("https://ia-test-auto-3.devanalytics.com/AnalyticsPortal_T1/#/")
     browser.waitForAngular();
     var EC = browser.ExpectedConditions;
     // Wait for new page url to contain newPageName
-    browser.wait(EC.urlContains('url#/login'), 120000); 
-    loginLib.LoginToApp("","");
+    browser.wait(EC.urlContains('https://ia-test-auto-3.devanalytics.com/AnalyticsPortal_T1/#/login'), 120000); 
+    loginLib.LoginToApp("iaserviceuser","1tronIap!");
     browser.wait(EC.urlContains('#/dashboard'), 120000); 
     browser.sleep(5000);
     

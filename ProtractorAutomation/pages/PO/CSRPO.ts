@@ -6,5 +6,6 @@ export class CSRPO{
 
     public basicSearchDropDownItems=element.all(by.options("field.queryName as field.displayName for field in vm.simpleSearchAttribute | orderBy: 'displayName' "));
     
+    public csr_txt_accountNumber=element(by.id('csr_txt_accountNumber'))
     
 }
