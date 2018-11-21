@@ -1,0 +1,81 @@
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\ConsoleStartUpApplication.exe.config
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\ConsoleStartUpApplication.exe
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\ConsoleStartUpApplication.pdb
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.CodedUITestFramework.dll
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.CodeGeneration.dll
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.Msaa.dll
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Framework.dll
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Playback.dll
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\obj\x86\Debug\ConsoleStartUpApplication.exe
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\obj\x86\Debug\ConsoleStartUpApplication.pdb
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.xml
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.dll
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.Uia.dll
+C:\Users\Vijay\Documents\Visual Studio 2010\Projects\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.Interop.dll
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\ConsoleStartUpApplication.exe.config
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\ConsoleStartUpApplication.exe
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\ConsoleStartUpApplication.pdb
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\CUITFramework.dll
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\KeywordsDriver.dll
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.CodedUITestFramework.dll
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.dll
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.MSAA.dll
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.Interop.dll
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\CUITFramework.pdb
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\KeywordsDriver.pdb
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.xml
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+E:\CUITFramework\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+E:\CUITFramework\ConsoleStartUpApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CUITFramework\ConsoleStartUpApplication\obj\x86\Debug\ConsoleStartUpApplication.exe
+E:\CUITFramework\ConsoleStartUpApplication\obj\x86\Debug\ConsoleStartUpApplication.pdb
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\ConsoleStartUpApplication.exe.config
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\obj\x86\Debug\ConsoleStartUpApplication.exe
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\obj\x86\Debug\ConsoleStartUpApplication.pdb
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\ConsoleStartUpApplication.exe
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\ConsoleStartUpApplication.pdb
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\CUITFramework.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\KeywordsDriver.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.CodedUITestFramework.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.Interop.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.mshtml.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\UiaComWrapper.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Interop.UIAutomationClient.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.MSXML.dll
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\CUITFramework.pdb
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\KeywordsDriver.pdb
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.CodedUITestFramework.xml
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.xml
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.xml
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\obj\x86\Debug\ConsoleStartUpApplication.csprojResolveAssemblyReference.cache
+C:\Format Backup\Vijay Motagi\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\bin\Debug\ConsoleStartUpApplication.exe.config
+C:\Format Backup\Vijay Motagi\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\obj\x86\Debug\ConsoleStartUpApplication.exe
+C:\Format Backup\Vijay Motagi\Vijay Personal Folder\Sukalpa\CUITFramework - Cognizant\ConsoleStartUpApplication\obj\x86\Debug\ConsoleStartUpApplication.pdb

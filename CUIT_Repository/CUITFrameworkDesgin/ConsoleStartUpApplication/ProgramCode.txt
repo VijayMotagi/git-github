@@ -1,0 +1,26 @@
+  ConsolePrintMessage.PrintHeaderMsg("============================= Coded UI Test Playback Initialize Started=====================");
+            
+            Playback.Initialize();
+            
+            if (args.Length > 0)
+            {
+                ConsolePrintMessage.PrintActionMsg("Test Sheet: '" + args[0] + "'" + " used for test execution");
+            }
+            
+                TestSettings.executable_parent_folder_path = args[4];
+                ConsolePrintMessage.PrintActionMsg("Test Sheet Executable Parent Path: '" + TestSettings.executable_parent_folder_path + "'" + " used for test execution");
+
+
+                //for (int i = 0; i < args.Length; i++)
+                //{
+                //    Console.WriteLine(" Argument " + ":" + i.ToString() + "=" + args[i]);
+                //}
+            ExcelManager.ConfigurationSheetDataInitialise(args[0]);
+            CUITFramework.CUIT_ObjectRepository.TestObjectLoader();
+            CUITFramework.CodedUITest1 test = new CUITFramework.CodedUITest1();
+            test.CodedUITestMethod1();
+            
+            
+            Playback.Cleanup();
+            ConsolePrintMessage.PrintHeaderMsg("============================= Coded UI Test Playback Cleanup Done=====================");
+            Console.ReadKey();
