@@ -38,7 +38,10 @@ fdescribe("CSR Functionality", function(){
     assertionLib.GetTitleValidate('Customer Service')
 
     csrPO.csr_txt_accountNumber.sendKeys('Auto');
+    csrPO.csr_txt_accountNumber.clear()
 
+    csrPO.csr_txt_accountNumber.sendKeys('Automation');
+    browser.sleep(5000);
 
     
   });
