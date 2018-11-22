@@ -28,7 +28,7 @@ fdescribe("CSR Functionality", function(){
     var EC = browser.ExpectedConditions;
     // Wait for new page url to contain newPageName
     browser.wait(EC.urlContains('https://ia-test-auto-3.devanalytics.com/AnalyticsPortal_T1/#/login'), 120000); 
-    loginLib.LoginToApp("iaserviceuser","1tronIap!");
+    loginLib.LoginToApp("","");
     browser.wait(EC.urlContains('#/dashboard'), 120000);
     browser.sleep(5000);
     assertionLib.GetTitleValidate('Home Dashboard')

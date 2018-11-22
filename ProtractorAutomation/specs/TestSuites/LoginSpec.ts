@@ -5,10 +5,13 @@ import { HomeDashboardPO } from "../../pages/PO/HomeDashboardPO"
 import { Select } from "../../common/WebDriverLib/SelectLib";
 import { CSRPO } from "../../pages/PO/CSRPO";
 import { AssertionLib } from "../../common/AssertionLib/AssertionLib";
+import { Login } from "../../pages/PO/LoginICSPPO";
+
 let loginLib = new LoginLib()
 let loginPO =new LoginPO()
 let csrPO=new CSRPO();
 let homedashboardPO=new HomeDashboardPO()
+let loginICSPPO=new Login()
 describe("Page Object Model in Protractor", function(){
   browser.ignoreSynchronization = true; // for non-angular websites
   var originalTimeout;
@@ -28,7 +31,7 @@ describe("Page Object Model in Protractor", function(){
     var EC = browser.ExpectedConditions;
     // Wait for new page url to contain newPageName
     browser.wait(EC.urlContains('https://ia-test-auto-3.devanalytics.com/AnalyticsPortal_T1/#/login'), 120000); 
-    loginLib.LoginToApp("iaserviceuser","1tronIap!");
+    loginLib.LoginToApp("","");
     browser.wait(EC.urlContains('#/dashboard'), 120000); 
     browser.sleep(5000);
     
@@ -78,8 +81,10 @@ describe("Page Object Model in Protractor", function(){
 
 
   });
-  xit("click operation",function(){
-    browser.get("https://google.com")
-    loginPO.feelingLucky().click()
+  it("ICSP Login",function(){
+
+    loginICSPPO.login(browser.params.auth,browser.baseUrl)
+    //console.log(browser.params.auth.email)
+    //console.log(browser.baseUrl)
   });
 });

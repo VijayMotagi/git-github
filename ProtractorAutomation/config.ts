@@ -1,6 +1,15 @@
 import { ProtractorBrowser, Config } from 'protractor';
 export let config: Config = {
   seleniumAddress: 'http://localhost:4444/wd/hub',
+  baseUrl: '',
+  params: {
+    auth: {
+            email: 'iatenantuser1@itron.com',
+            username: '',
+            password: ''
+          }
+        },
+
   //This is for Multiple instances
   // multiCapabilities: [{
   //   browserName: 'firefox'
