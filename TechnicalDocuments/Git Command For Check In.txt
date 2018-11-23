@@ -1,0 +1,36 @@
+git checkout firstbranch
+git add *
+git status
+	"Green"
+git commit -m "Comment"
+git push origin firstbranch
+git merge master
+git checkout master
+git merge firstbranch
+git push origin master
+
+only to add modified files
+git add -u
+
+It's not a Git error message, it's the editor as git uses your default editor.
+
+To solve this:
+
+press "i"
+write your merge message
+press "esc"
+write ":wq"
+then press enter
+
+Remove directory from git and local
+You could checkout 'master' with both directories;
+
+git rm -r one-of-the-directories
+git commit -m "Remove duplicated directory"
+git push origin <your-git-branch> (typically 'master', but not always)
+
+
+ 
+
+
+
