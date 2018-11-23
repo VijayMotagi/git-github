@@ -1,0 +1,22 @@
+{
+  "name": "protractorautomation",
+  "version": "1.0.0",
+  "description": "Protractor Typescript Mobile Test Automation framework",
+  "main": "config.js",
+  "dependencies": {
+    "appium": "^1.9.1",
+    "protractor": "^5.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "pretest": "npm run tsc",
+    "test": "protractor ConvertedJSFiles/config.js",
+    "tsc": "tsc"
+  },
+  "keywords": [
+    "Protractor",
+    "Typescript"
+  ],
+  "author": "Vijay Motagi",
+  "license": "ISC"
+}
