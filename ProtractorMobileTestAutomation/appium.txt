@@ -1,7 +1,10 @@
 Installation:
 1.Android SDK
 2.Open Andorid SDK and Click on AVD Manager and create virtual devices i.e emulator
-
+3.Install appium with Commands
+	npm install -g appium 
+		or with version
+	npm install -g appium@1.9.1
 Set the following Environment Variables:
 
 1. ANDROID_HOME = C:\Users\<User>\AppData\Local\Android\Sdk
@@ -42,8 +45,8 @@ http://automation-home.blogspot.com/2015/11/protractor.html
 
 appium -a 127.0.0.1 -p 4723 --chromedriver-port 4723
 
- appium -a 127.0.0.1 -p 4723 -–session-override -dc “{\”noReset\”: \”false\”}” --chromedriver-port 4723
+ appium -a 127.0.0.1 -p 4723 -ï¿½session-override -dc ï¿½{\ï¿½noReset\ï¿½: \ï¿½false\ï¿½}ï¿½ --chromedriver-port 4723
 
 
 
- appium -a 127.0.0.1 -p 4723 –session-override -dc “{\”noReset\”: \”false\”}”
+ appium -a 127.0.0.1 -p 4723 ï¿½session-override -dc ï¿½{\ï¿½noReset\ï¿½: \ï¿½false\ï¿½}ï¿½

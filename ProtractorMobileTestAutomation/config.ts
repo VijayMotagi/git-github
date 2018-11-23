@@ -11,7 +11,7 @@ export let config: Config = {
   capabilities: {
     'browserName': 'chrome',
     'platformName':'Android',
-    'deviceName': '52004f54ea7ba441'//'emulator-5554', //'52004f54ea7ba441'
+    'deviceName': 'emulator-5554', //'52004f54ea7ba441'
     //'appium-version':'1.9.1',
     //'platformVersion':'8.1.0',
     //'automationName':'Appium',
