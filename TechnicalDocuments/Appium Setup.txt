@@ -1,0 +1,49 @@
+Installation:
+1.Android SDK
+2.Open Andorid SDK and Click on AVD Manager and create virtual devices i.e emulator
+
+Set the following Environment Variables:
+
+1. ANDROID_HOME = C:\Users\<User>\AppData\Local\Android\Sdk
+
+2. Add the following in Path Variable in section 'User variables for <User>'
+	a)C:\Users\<User>\AppData\Roaming\npm
+	b)C:\Users\<User>\AppData\Local\Programs\Microsoft VS Code\bin
+	c)C:\Users\<User>\AppData\Local\Android\Sdk\platform-tools
+	d)C:\Users\<User>\AppData\Local\Android\Sdk\tools\bin
+	e)C:\Users\<User>\AppData\Local\Android\Sdk\tools
+
+
+--Commands to open emulator ---
+cd C:\Users\<User>\AppData\Local\Android\Sdk\emulator
+
+emulator -list-avds
+
+emulator @Pixel_2_API_27
+
+------------------
+--Start Appium Server ---
+appium -a 127.0.0.1 -p 4723
+------------------
+
+--Some help
+
+http://www.automationtestinghub.com/download-and-install-appium-1-6/
+npm install -g appium
+npm install appium-chromedriver
+npm install appium --chromedriver_version="2.34"
+
+appium -a 127.0.0.1 -p 4723
+
+Ctrl +C to stop appium server
+
+http://automation-home.blogspot.com/2015/11/protractor.html
+
+
+appium -a 127.0.0.1 -p 4723 --chromedriver-port 4723
+
+ appium -a 127.0.0.1 -p 4723 -–session-override -dc “{\”noReset\”: \”false\”}” --chromedriver-port 4723
+
+
+
+ appium -a 127.0.0.1 -p 4723 –session-override -dc “{\”noReset\”: \”false\”}”
