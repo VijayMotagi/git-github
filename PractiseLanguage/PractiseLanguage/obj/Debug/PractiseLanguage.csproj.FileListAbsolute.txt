@@ -1,0 +1,13 @@
+D:\Technical\CSharp\PractiseLanguage\PractiseLanguage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Technical\CSharp\PractiseLanguage\PractiseLanguage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Technical\CSharp\PractiseLanguage\PractiseLanguage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Technical\CSharp\PractiseLanguage\PractiseLanguage\bin\Debug\PractiseLanguage.dll
+D:\Technical\CSharp\PractiseLanguage\PractiseLanguage\bin\Debug\PractiseLanguage.pdb
+D:\Technical\CSharp\PractiseLanguage\PractiseLanguage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Technical\CSharp\PractiseLanguage\PractiseLanguage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Technical\CSharp\PractiseLanguage\PractiseLanguage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Technical\CSharp\PractiseLanguage\PractiseLanguage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Technical\CSharp\PractiseLanguage\PractiseLanguage\obj\Debug\PractiseLanguage.csprojAssemblyReference.cache
+D:\Technical\CSharp\PractiseLanguage\PractiseLanguage\obj\Debug\PractiseLanguage.csproj.CopyComplete
+D:\Technical\CSharp\PractiseLanguage\PractiseLanguage\obj\Debug\PractiseLanguage.dll
+D:\Technical\CSharp\PractiseLanguage\PractiseLanguage\obj\Debug\PractiseLanguage.pdb
