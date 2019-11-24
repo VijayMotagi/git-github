@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SeleniumTestProject
 {
-    public class Driver  : DriverContext
+    public class Driver  : DriverContext, IDriverHelper
     {
         
         public  Driver(IWebDriver driver,string browsername):base(driver, browsername)
@@ -20,12 +20,12 @@ namespace SeleniumTestProject
         {
             return base.driver;
         }
+
         public void NavigateToURL(string url)
         {
 
             base.driver.Navigate().GoToUrl(url);
         }
-
         public void MaximixeBrowserWindow()
         {
             base.driver.Manage().Window.Maximize();
