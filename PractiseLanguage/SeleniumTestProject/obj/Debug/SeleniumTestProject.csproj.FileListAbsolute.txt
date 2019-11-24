@@ -17,3 +17,22 @@ D:\Technical\CSharp\PractiseLanguage\SeleniumTestProject\obj\Debug\SeleniumTestP
 D:\Technical\CSharp\PractiseLanguage\SeleniumTestProject\obj\Debug\SeleniumTestProject.pdb
 D:\Technical\CSharp\PractiseLanguage\SeleniumTestProject\bin\Debug\SeleniumExtras.PageObjects.dll
 D:\Technical\CSharp\PractiseLanguage\SeleniumTestProject\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\obj\Debug\SeleniumTestProject.csprojAssemblyReference.cache
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\obj\Debug\SeleniumTestProject.dll
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\obj\Debug\SeleniumTestProject.pdb
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\SeleniumTestProject.dll
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\SeleniumTestProject.pdb
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\SeleniumExtras.PageObjects.dll
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\WebDriver.dll
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\WebDriver.Support.dll
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\WebDriver.xml
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\bin\Debug\WebDriver.Support.xml
+D:\Technical\Git Repo\git-github\PractiseLanguage\SeleniumTestProject\obj\Debug\SeleniumTestProject.csproj.CopyComplete

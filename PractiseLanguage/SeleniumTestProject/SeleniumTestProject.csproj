@@ -67,6 +67,7 @@
     <Compile Include="Base2Approach\TestClass1.cs" />
     <Compile Include="Driver.cs" />
     <Compile Include="DriverContext.cs" />
+    <Compile Include="IDriverHelper.cs" />
     <Compile Include="Pages\MercuryLoginPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Base1Approach\TestSuite1.cs" />
