@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="www.petshop.com" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\vijay\\source\\repos\\PetShopWebApp\\PetShopManagementSystem\\PetShopManagementSystem\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\vijay\\source\\repos\\PetShopWebApp\\PetShopManagementSystem\\PetShopManagementSystem\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="mycon-Web.config Connection String" description="" value="Server=localhost\SQLEXPRESS;Database=PetShop;Trusted_Connection=True;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\vijay\\source\\repos\\PetShopWebApp\\PetShopManagementSystem\\PetShopManagementSystem\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='mycon']/@connectionString" />
+  </parameter>
+</parameters>
